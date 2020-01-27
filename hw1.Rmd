@@ -1,0 +1,18 @@
+---
+title: "hw1"
+author: "Henry Underhill"
+github username: "henryunderhill"
+date: "22 January 2020"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+A job I think is related to data science is a meteorologist<https://en.wikipedia.org/wiki/Meteorology>. I believe looking at *weather trends*, viewing **historical data** correlated with times during the year and seasons utilizes data science to a major degree. Observing specific traits of a climate and how the weather affects certain areas utilizes methodology similar to what we use in statistics and data science. 
+
+![Weather](C:\Users\rauli\Pictures\weather.png) 
+
+```{r}
+version
+```
